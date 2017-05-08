@@ -19,3 +19,5 @@ combined.css
 combined.min.css
 combined.js
 combined.min.js
+
+.DS_Store
